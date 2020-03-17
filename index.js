@@ -40,12 +40,6 @@ let ques_Team = [{
        
     },
     {
-        type: "list",
-        message: "what is the role of team member?",
-        name: "type",
-        choices: ['engineer', 'intern']
-    },
-    {
         type:"input",
         message:"What school did she/he graduate from?",
         name:"school"   

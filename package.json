@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Akanksha-Gupta03/Employee-Summary#readme",
   "dependencies": {
-    "inquirer": "^7.0.4"
+    "inquirer": "^7.0.5"
   },
   "devDependencies": {}
 }
